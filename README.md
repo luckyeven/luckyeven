@@ -1,8 +1,9 @@
 # Hey👋 
 
-<div  align="bottom"> <img src="https://visitor-badge.glitch.me/badge?page_id=luckyeven"  /> </div> </br >
+<div > <img src="https://visitor-badge.glitch.me/badge?page_id=luckyeven"  /> </div> </br >
 
 I am Shifeng Song(luckyeven). I live in Ottawa and I’ve recently done my Bachelors in ***Computer Engingeering*** from University of Ottawa and will pursue  ***Artificial Intelligence Software Development*** from Algonquin college.  
+
 
 
 ## I’m Currently Learning
