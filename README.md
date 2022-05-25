@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/luvkyeven/luckyeven/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyeven&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=luckyeven" /> </div>
 <!--
 **luckyeven/luckyeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
