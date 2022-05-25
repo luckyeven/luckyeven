@@ -4,7 +4,7 @@
 
 I am Shifeng Song(luckyeven). I live in Ottawa and I’ve recently done my Bachelors in ***Computer Engingeering*** from University of Ottawa and will pursue  ***Artificial Intelligence Software Development*** from Algonquin college.  
 
-
+I have always been self-motivated. I was born in 
 
 ## I’m Currently Learning
 
