@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/luvkyeven/luckyeven/contribution-snake/github-contribution-grid-snake.svg" /></div>
+![](https://raw.githubusercontent.com/luvkyeven/luckyeven/main/assets/github-contribution-grid-snake.svg)              
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyeven&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
