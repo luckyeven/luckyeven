@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hey👋, I am Shifeng Song(luckyeven)
+
+
+-----
 
 <!-- 贪吃蛇代码贡献图 -->
-![](https://raw.githubusercontent.com/luvkyeven/luckyeven/main/assets/github-contribution-grid-snake.svg)              
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/luckyeven/luckyeven/contribution-snake/github-contribution-grid-snake.svg" /></div>     
+
+-------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyeven&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
