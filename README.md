@@ -23,7 +23,7 @@ I am Shifeng Song(luckyeven). I live in Ottawa and I’ve recently done my Bache
 </br>
 <p float="left" align="center" >
     <a href="https://github.com/search?q=user%3luckyeven+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3luckyeven+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aprolog"><img alt="Prolog" src="https://custom-icon-badges.herokuapp.com/badge/Prolog-E61B23.svg?logo=swi-prolog&logoColor=white"></a>
