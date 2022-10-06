@@ -35,10 +35,10 @@ I am Shifeng Song(luckyeven). I live in Ottawa and I’ve recently done my Bache
 </br></br>
 
 ## Statistics
-  
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="contribution-snake/github-contribution-grid-snake.svg" width="98.39%" height="98.39%"/></div>     
 
+<!-- 贪吃蛇代码贡献图 
+<div align="center"><img src="contribution-snake/github-contribution-grid-snake.svg" width="98.39%" height="98.39%"/></div>     
+-->
 <p float="left">
 <!-- Current Streak-->
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=luckyeven&hide_border=true" width = "49%" />
