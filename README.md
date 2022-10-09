@@ -16,7 +16,7 @@ I am Shifeng Song(luckyeven). I live in Ottawa and I’ve recently done my Bache
 <kbd> 🧮 Algorithm</kbd>
 <kbd> 🐧 Operating System</kbd>
 <kbd> 💻 Computer Organization</kbd>
-<kbd> :trollface: Concept of Compiler</kbd>
+<kbd> :lady_beetle: Concept of Compiler</kbd>
 <kbd> 🌐 Computer Networking</kbd>
 </p>
 
